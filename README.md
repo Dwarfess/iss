@@ -24,4 +24,4 @@ Movement International Space Station online, implemented on AngularJS.<br>
    * current station coordinates
    * current date
 
-**(You can also go to the [link](http://works.step-to-webprogramming.info/projects/International%20Space%20Station/)** without downloading the application to your computer)**
+**(You can also go to the [link](http://works.step-to-webprogramming.info/projects/International%20Space%20Station/) without downloading the application to your computer)**
